@@ -2,7 +2,8 @@
 
 One MCP for reverse engineering across binaries, applications, and runtime behavior.
 
-- 官方仓库: https://github.com/morluto/rea
+- 上游官方仓库: https://github.com/morluto/rea
+- 本发布包仓库: https://github.com/chunian-nb/rea-plugin-release
 - npm 包: `rea-agents`
 - 启动命令: `npx rea-agents mcp`
 
