@@ -3,9 +3,9 @@
   "name": "io.github.morluto/rea",
   "title": "REA",
   "description": "Reverse engineer anything from your terminal or agent with one CLI and MCP server.",
-  "websiteUrl": "https://github.com/morluto/rea",
+  "websiteUrl": "https://github.com/chunian-nb/rea-plugin-release",
   "repository": {
-    "url": "https://github.com/morluto/rea",
+    "url": "https://github.com/chunian-nb/rea-plugin-release",
     "source": "github"
   },
   "version": "6.5.0",
