@@ -26,7 +26,8 @@
 
 ## 来源与版权声明
 
-- 本插件基于开源项目 **morluto/rea** 封装适配，官方仓库：https://github.com/morluto/rea
+- 本插件基于开源项目 **morluto/rea** 封装适配，上游官方仓库：https://github.com/morluto/rea
+- 本发布包仓库（Operit 适配版）：https://github.com/chunian-nb/rea-plugin-release
 - 官方文档：https://rea.tools/
 - npm 包：`rea-agents`（https://www.npmjs.com/package/rea-agents）
 - 上游项目版权归其原作者所有。
