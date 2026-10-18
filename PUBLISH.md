@@ -39,7 +39,7 @@ REA - Reverse Engineer Anything：一站式逆向分析 MCP 插件。
 
 ### GitHub 仓库地址
 ```
-https://github.com/morluto/rea
+https://github.com/chunian-nb/rea-plugin-release
 ```
 
 ### 版本
