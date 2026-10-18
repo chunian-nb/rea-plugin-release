@@ -7,7 +7,8 @@
 | 项目 | 值 |
 |---|---|
 | 插件 ID | `rea` |
-| 项目 | [morluto/rea](https://github.com/morluto/rea) |
+| 发布仓库 | [chunian-nb/rea-plugin-release](https://github.com/chunian-nb/rea-plugin-release) |
+| 上游项目 | [morluto/rea](https://github.com/morluto/rea) |
 | npm 包 | `rea-agents` |
 | 版本 | 6.5.0 |
 | 启动命令 | `npx rea-agents mcp`（Operit 运行时自动转为 `pnpm dlx rea-agents mcp`） |
@@ -62,6 +63,7 @@
 
 ## 参考
 
-- 官方仓库: https://github.com/morluto/rea
+- 上游官方仓库: https://github.com/morluto/rea
+- 本发布包仓库: https://github.com/chunian-nb/rea-plugin-release
 - 官方文档: https://rea.tools/
 - npm: https://www.npmjs.com/package/rea-agents
