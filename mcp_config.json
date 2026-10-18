@@ -14,7 +14,7 @@
   "pluginMetadata": {
     "rea": {
       "author": "初念",
-      "connectionType": "httpStream",
+      "connectionType": "stdio",
       "description": "REA - Reverse Engineer Anything：一站式逆向分析 MCP 插件（二进制 / APK / JS / 抓包 / 数据库 / 固件）",
       "disabled": false,
       "id": "rea",
@@ -25,7 +25,7 @@
       "repoUrl": "https://github.com/chunian-nb/rea-plugin-release",
       "type": "local",
       "updatedAt": "2026-10-18",
-      "version": "1.0.0"
+      "version": "6.7.0"
     }
   }
 }

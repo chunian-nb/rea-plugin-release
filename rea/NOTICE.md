@@ -4,7 +4,7 @@
 
 - **插件名称**: REA (Reverse Engineer Anything)
 - **插件 ID**: `rea`
-- **版本**: 1.0.0
+- **版本**: 6.7.0
 - **作者**: 初念
 - **发布日期**: 2026-10-18
 - **适用平台**: Operit（Android / Linux 侧 MCP 插件）

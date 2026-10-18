@@ -10,7 +10,7 @@
 | 发布仓库 | [chunian-nb/rea-plugin-release](https://github.com/chunian-nb/rea-plugin-release) |
 | 上游项目 | [morluto/rea](https://github.com/morluto/rea) |
 | npm 包 | `rea-agents` |
-| 版本 | 6.5.0 |
+| 版本 | 6.7.0 |
 | 启动命令 | `npx rea-agents mcp`（Operit 运行时自动转为 `pnpm dlx rea-agents mcp`） |
 | 传输方式 | stdio |
 
@@ -43,7 +43,7 @@
 
 - Operit 会把 Android 侧 `/sdcard/Download/Operit/mcp_plugins/rea/` 复制到 Linux 侧 `~/mcp_plugins/rea/`
 - 启动时 cwd = `~/mcp_plugins/rea/`，执行 `npx rea-agents mcp`（内部改写为 `pnpm dlx rea-agents mcp`）
-- 已实测：`pnpm dlx rea-agents@latest mcp` 可正常完成 MCP initialize 握手，返回 `rea 6.5.0`
+- 已实测：`pnpm dlx rea-agents@latest mcp` 可正常完成 MCP initialize 握手，返回 `rea 6.7.0`
 
 ## 环境要求（已满足）
 

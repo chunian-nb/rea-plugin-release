@@ -46,7 +46,7 @@ rea-plugin-release/
 |---|---|
 | 插件名称 | Rea |
 | 插件 ID | `rea` |
-| 版本 | 1.0.0 |
+| 版本 | 6.7.0 |
 | 作者 | 初念 |
 | 发布仓库 | [chunian-nb/rea-plugin-release](https://github.com/chunian-nb/rea-plugin-release) |
 | 上游项目 | [morluto/rea](https://github.com/morluto/rea) |

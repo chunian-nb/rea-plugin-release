@@ -44,7 +44,7 @@ https://github.com/chunian-nb/rea-plugin-release
 
 ### 版本
 ```
-1.0.0
+6.7.0
 ```
 
 ### 允许所有人更新该插件

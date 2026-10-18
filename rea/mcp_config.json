@@ -2,7 +2,10 @@
   "mcpServers": {
     "rea": {
       "command": "npx",
-      "args": ["rea-agents", "mcp"],
+      "args": [
+        "rea-agents",
+        "mcp"
+      ],
       "env": {},
       "autoApprove": [],
       "disabled": false
