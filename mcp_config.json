@@ -1,0 +1,31 @@
+{
+  "mcpServers": {
+    "rea": {
+      "args": [
+        "rea-agents",
+        "mcp"
+      ],
+      "autoApprove": [],
+      "command": "npx",
+      "disabled": false,
+      "env": {}
+    }
+  },
+  "pluginMetadata": {
+    "rea": {
+      "author": "初念",
+      "connectionType": "httpStream",
+      "description": "REA - Reverse Engineer Anything：一站式逆向分析 MCP 插件（二进制 / APK / JS / 抓包 / 数据库 / 固件）",
+      "disabled": false,
+      "id": "rea",
+      "installedTime": 1792324355297,
+      "isInstalled": true,
+      "longDescription": "REA 是一个强大的逆向工程 MCP 插件，支持原生二进制分析、JavaScript/Electron 应用分析、.NET 程序集分析、网站结构分析、Android APK 分析、SQLite 数据库分析、WASM/EVM 字节码分析、Go/Rust 二进制静态分析、网络抓包（HAR/SAZ/pcap）分析与固件分析等。",
+      "name": "Rea",
+      "repoUrl": "https://github.com/morluto/rea",
+      "type": "local",
+      "updatedAt": "2026-10-18",
+      "version": "1.0.0"
+    }
+  }
+}
