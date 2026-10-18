@@ -48,6 +48,7 @@ rea-plugin-release/
 | 插件 ID | `rea` |
 | 版本 | 1.0.0 |
 | 作者 | 初念 |
+| 发布仓库 | [chunian-nb/rea-plugin-release](https://github.com/chunian-nb/rea-plugin-release) |
 | 上游项目 | [morluto/rea](https://github.com/morluto/rea) |
 | npm 包 | `rea-agents` |
 | 启动命令 | `npx rea-agents mcp` |
