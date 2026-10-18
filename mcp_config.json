@@ -22,7 +22,7 @@
       "isInstalled": true,
       "longDescription": "REA 是一个强大的逆向工程 MCP 插件，支持原生二进制分析、JavaScript/Electron 应用分析、.NET 程序集分析、网站结构分析、Android APK 分析、SQLite 数据库分析、WASM/EVM 字节码分析、Go/Rust 二进制静态分析、网络抓包（HAR/SAZ/pcap）分析与固件分析等。",
       "name": "Rea",
-      "repoUrl": "https://github.com/morluto/rea",
+      "repoUrl": "https://github.com/chunian-nb/rea-plugin-release",
       "type": "local",
       "updatedAt": "2026-10-18",
       "version": "1.0.0"
